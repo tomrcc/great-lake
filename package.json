@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx -y flatlake"
+    "flatlake": "npx -y flatlake"
   },
   "keywords": [],
   "author": "",
