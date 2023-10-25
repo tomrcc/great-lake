@@ -1,0 +1,5 @@
+collections:
+  # - output_key: "posts"
+  #   path: "collections/posts"
+  # - output_key: "people"
+  #   path: "collections/authors"

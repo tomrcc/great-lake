@@ -1,0 +1,12 @@
+{
+  "name": "great-lake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx -y flatlake"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
