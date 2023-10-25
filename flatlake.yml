@@ -1,5 +1,3 @@
 collections:
-  # - output_key: "posts"
-  #   path: "collections/posts"
-  # - output_key: "people"
-  #   path: "collections/authors"
+  - output_key: 'engineering'
+    path: 'collections/engineering'
