@@ -1,3 +1,5 @@
 collections:
   - output_key: 'engineering'
     path: 'collections/engineering'
+  - output_key: 'science'
+    path: 'collections/science'
